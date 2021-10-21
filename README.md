@@ -1,2 +1,2 @@
-# CIND119-FinalProject
-Churn Customers - Decision Tree - Naive Bayes
+# Churn Customers
+Decision Tree - Naive Bayes (CIND119-FinalProject)
